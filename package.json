@@ -1,0 +1,15 @@
+{
+  "name": "com.ese9.custom.ui",
+  "version": "1.0.0",
+  "displayName": "Custom UI Elements",
+  "unity": "2019.1",
+  "dependencies": {
+    "com.ese9.extensions": "1.0.0",
+    "com.unity.textmeshpro": "2.0.0"
+  },
+  "author": {
+    "name": "ese9",
+    "email": "n90.roman@gmail.com",
+    "url": "https://github.com/ese9"
+  }
+}

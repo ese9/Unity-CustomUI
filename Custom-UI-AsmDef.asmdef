@@ -1,0 +1,16 @@
+{
+    "name": "Custom-UI-AsmDef",
+    "references": [
+        "GUID:d41352124d0e74ef9af27aa8da22f532",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
